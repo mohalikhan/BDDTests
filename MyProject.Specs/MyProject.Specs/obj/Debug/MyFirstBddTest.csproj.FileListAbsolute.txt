@@ -1,0 +1,6 @@
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.dll.config
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.dll
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.pdb
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\obj\Debug\MyProject.Specs.dll
+C:\Users\Mohammad.Ali\Documents\Visual Studio 2013\Projects\MyProject.Specs\MyProject.Specs\obj\Debug\MyProject.Specs.pdb
